@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\BlackJack_Game_Example\BlackJack_Game_Example\bin\Debug\BlackJack_Game_Example.exe.config
+C:\Users\spuns\source\repos\BlackJack_Game_Example\BlackJack_Game_Example\bin\Debug\BlackJack_Game_Example.exe
+C:\Users\spuns\source\repos\BlackJack_Game_Example\BlackJack_Game_Example\bin\Debug\BlackJack_Game_Example.pdb
+C:\Users\spuns\source\repos\BlackJack_Game_Example\BlackJack_Game_Example\obj\Debug\BlackJack_Game_Example.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\BlackJack_Game_Example\BlackJack_Game_Example\obj\Debug\BlackJack_Game_Example.exe
+C:\Users\spuns\source\repos\BlackJack_Game_Example\BlackJack_Game_Example\obj\Debug\BlackJack_Game_Example.pdb
