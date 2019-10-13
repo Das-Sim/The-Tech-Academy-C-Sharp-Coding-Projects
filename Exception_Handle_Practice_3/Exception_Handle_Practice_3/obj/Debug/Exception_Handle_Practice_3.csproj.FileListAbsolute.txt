@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\Exception_Handle_Practice_3\Exception_Handle_Practice_3\bin\Debug\Exception_Handle_Practice_3.exe.config
+C:\Users\spuns\source\repos\Exception_Handle_Practice_3\Exception_Handle_Practice_3\bin\Debug\Exception_Handle_Practice_3.exe
+C:\Users\spuns\source\repos\Exception_Handle_Practice_3\Exception_Handle_Practice_3\bin\Debug\Exception_Handle_Practice_3.pdb
+C:\Users\spuns\source\repos\Exception_Handle_Practice_3\Exception_Handle_Practice_3\obj\Debug\Exception_Handle_Practice_3.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Exception_Handle_Practice_3\Exception_Handle_Practice_3\obj\Debug\Exception_Handle_Practice_3.exe
+C:\Users\spuns\source\repos\Exception_Handle_Practice_3\Exception_Handle_Practice_3\obj\Debug\Exception_Handle_Practice_3.pdb
