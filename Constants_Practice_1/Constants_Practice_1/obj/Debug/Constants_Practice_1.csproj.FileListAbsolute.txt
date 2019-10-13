@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\Constants_Practice_1\Constants_Practice_1\bin\Debug\Constants_Practice_1.exe.config
+C:\Users\spuns\source\repos\Constants_Practice_1\Constants_Practice_1\bin\Debug\Constants_Practice_1.exe
+C:\Users\spuns\source\repos\Constants_Practice_1\Constants_Practice_1\bin\Debug\Constants_Practice_1.pdb
+C:\Users\spuns\source\repos\Constants_Practice_1\Constants_Practice_1\obj\Debug\Constants_Practice_1.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Constants_Practice_1\Constants_Practice_1\obj\Debug\Constants_Practice_1.exe
+C:\Users\spuns\source\repos\Constants_Practice_1\Constants_Practice_1\obj\Debug\Constants_Practice_1.pdb
