@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\File_IO_Example\File_IO_Example\bin\Debug\File_IO_Example.exe.config
+C:\Users\spuns\source\repos\File_IO_Example\File_IO_Example\bin\Debug\File_IO_Example.exe
+C:\Users\spuns\source\repos\File_IO_Example\File_IO_Example\bin\Debug\File_IO_Example.pdb
+C:\Users\spuns\source\repos\File_IO_Example\File_IO_Example\obj\Debug\File_IO_Example.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\File_IO_Example\File_IO_Example\obj\Debug\File_IO_Example.exe
+C:\Users\spuns\source\repos\File_IO_Example\File_IO_Example\obj\Debug\File_IO_Example.pdb
