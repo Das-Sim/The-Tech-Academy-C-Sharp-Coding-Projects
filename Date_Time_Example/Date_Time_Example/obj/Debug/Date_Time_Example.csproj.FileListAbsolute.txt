@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\Date_Time_Example\Date_Time_Example\bin\Debug\Date_Time_Example.exe.config
+C:\Users\spuns\source\repos\Date_Time_Example\Date_Time_Example\bin\Debug\Date_Time_Example.exe
+C:\Users\spuns\source\repos\Date_Time_Example\Date_Time_Example\bin\Debug\Date_Time_Example.pdb
+C:\Users\spuns\source\repos\Date_Time_Example\Date_Time_Example\obj\Debug\Date_Time_Example.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Date_Time_Example\Date_Time_Example\obj\Debug\Date_Time_Example.exe
+C:\Users\spuns\source\repos\Date_Time_Example\Date_Time_Example\obj\Debug\Date_Time_Example.pdb
